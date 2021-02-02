@@ -1,0 +1,49 @@
+
+
+.header{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    padding: 3em;
+    margin: 3em;
+}
+
+.main-header{
+    height: 2px;
+    width: 100%;
+    background-color: aqua;
+    margin-top: .25em;
+}
+
+.body-header{
+    text-align: center;
+}
+
+.main-body{
+    text-align: left;
+    margin-left: 15em;
+    margin-right: 40em;
+}
+
+.main-footer{
+    background-color: aqua;
+    margin-bottom: .25em;
+    height: 2px;
+    width: 100%;
+}
+
+.side-box{
+    margin-top: 20em;
+    margin-top: 20em;
+    margin-left: 60em;
+    margin-right: 10em;
+    position: absolute;
+    top: 10%;
+}
+
+.footer{
+    background-color: blue;
+    padding: 2em;
+    margin: 2em;
+    border: 2em;
+}
